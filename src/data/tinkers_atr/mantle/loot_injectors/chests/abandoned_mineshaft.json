@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:chests/abandoned_mineshaft",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tinkers_atr:melting_pan_building_template",
+          "weight": 2
+        }
+      ],
+      "name": "main"
+    }
+  ]
+}

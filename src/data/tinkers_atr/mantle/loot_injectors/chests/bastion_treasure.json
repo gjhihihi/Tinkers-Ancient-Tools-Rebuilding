@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:chests/bastion_treasure",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tinkers_atr:battlesign_building_template",
+          "weight": 3
+        }
+      ],
+      "name": "main"
+    }
+  ]
+}

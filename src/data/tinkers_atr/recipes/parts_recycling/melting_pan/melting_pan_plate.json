@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:crafting_shapeless_materials",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tconstruct:material",
+      "item": "tinkers_atr:melting_pan_plate",
+      "material": {
+        "type": "tconstruct:has_part",
+        "part": "tconstruct:repair_kit"
+      }
+    },
+    {
+      "item": "tconstruct:venom_bottle"
+    }
+  ],
+  "parts": 1,
+  "result": {
+    "count": 1,
+    "item": "tconstruct:repair_kit"
+  }
+}

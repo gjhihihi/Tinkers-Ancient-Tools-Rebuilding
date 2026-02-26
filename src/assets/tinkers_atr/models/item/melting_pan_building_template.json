@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tinkers_atr:item/template/template_tinkers_atr_seared_stone",
+        "layer1": "tinkers_atr:item/template/melting_pan_icon_tinkers_atr_seared_stone"
+    }
+}

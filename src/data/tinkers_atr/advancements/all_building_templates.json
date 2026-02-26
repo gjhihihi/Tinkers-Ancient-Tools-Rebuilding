@@ -1,0 +1,83 @@
+{
+  "parent": "tconstruct:world/ancient_tools",
+  "criteria": {
+    "battlesign": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tinkers_atr:battlesign_building_template"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "melting_pan": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tinkers_atr:melting_pan_building_template"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "swasher": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tinkers_atr:swasher_building_template"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "war_pick": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tinkers_atr:war_pick_building_template"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.tinkers_atr.all_building_templates.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "tinkers_atr:battlesign_building_template"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.tinkers_atr.all_building_templates.title"
+    }
+  },
+  "requirements": [
+    [
+      "melting_pan"
+    ],
+    [
+      "war_pick"
+    ],
+    [
+      "battlesign"
+    ],
+    [
+      "swasher"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

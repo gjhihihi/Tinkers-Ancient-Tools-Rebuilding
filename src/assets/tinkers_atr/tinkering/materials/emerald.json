@@ -1,0 +1,48 @@
+{
+  "color": "FF10BC46",
+  "fallbacks": [
+    "metal"
+  ],
+  "generator": {
+    "supported_stats": [
+      "tinkers_atr:template",
+      "tinkers_atr:war_pick_icon"
+    ],
+    "transformer": {
+      "type": "tconstruct:recolor_sprite",
+      "color_mapping": {
+        "type": "tconstruct:grey_to_color",
+        "palette": [
+          {
+            "grey": 0,
+            "color": "FF05220E"
+          },
+          {
+            "grey": 63,
+            "color": "FF053A16"
+          },
+          {
+            "grey": 102,
+            "color": "FF0FA83F"
+          },
+          {
+            "grey": 140,
+            "color": "FF12CF4D"
+          },
+          {
+            "grey": 178,
+            "color": "FF13DB52"
+          },
+          {
+            "grey": 216,
+            "color": "FF41F384"
+          },
+          {
+            "grey": 255,
+            "color": "FFAFFDCD"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": false,
+  "inputs": [
+    {
+      "item": "tinkers_atr:melting_pan_building_template"
+    },
+    {
+      "item": "tinkers_atr:melting_pan_building_template"
+    },
+    {
+      "item": "tinkers_atr:melting_pan_building_template"
+    },
+    {
+      "item": "tinkers_atr:melting_pan_building_template"
+    },
+    {
+      "item": "tinkers_atr:melting_pan_building_template"
+    }
+  ],
+  "level": 1,
+  "result": "tinkers_atr:unearthed",
+  "tools": {
+    "item": "tconstruct:melting_pan"
+  }
+}

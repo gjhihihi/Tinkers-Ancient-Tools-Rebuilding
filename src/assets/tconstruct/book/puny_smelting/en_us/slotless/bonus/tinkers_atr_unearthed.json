@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tinkers_atr:unearthed",
+  "text": [
+    {
+      "text": "Dismantle the ancient tools you found, reassemble them, dismantle, reassemble... you may find some new things."
+    },
+    {
+      "text": "What, you don't know what ancient tools are? You should read Tinkers' Gadgetry.", "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Adds another ability slot",
+    "Single level",
+    "Slotless",
+    "Specializes‌ in ancient tools"
+  ]
+}

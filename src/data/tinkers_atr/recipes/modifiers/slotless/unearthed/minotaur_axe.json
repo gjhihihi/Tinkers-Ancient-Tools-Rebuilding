@@ -1,0 +1,32 @@
+{
+  "type": "tconstruct:modifier",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "allow_crystal": false,
+  "inputs": [
+    {
+      "item": "tinkers_atr:minotaur_axe_building_template"
+    },
+    {
+      "item": "tinkers_atr:minotaur_axe_building_template"
+    },
+    {
+      "item": "tinkers_atr:minotaur_axe_building_template"
+    },
+    {
+      "item": "tinkers_atr:minotaur_axe_building_template"
+    },
+    {
+      "item": "tinkers_atr:minotaur_axe_building_template"
+    }
+  ],
+  "level": 1,
+  "result": "tinkers_atr:unearthed",
+  "tools": {
+    "item": "tconstruct:minotaur_axe"
+  }
+}

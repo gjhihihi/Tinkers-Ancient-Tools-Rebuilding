@@ -1,0 +1,26 @@
+{
+  "name": "minecraft:entities/ravager",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:saddle",
+          "weight": 38
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tinkers_atr:war_pick_building_template"
+        }
+      ],
+      "name": "main"
+    }
+  ]
+}

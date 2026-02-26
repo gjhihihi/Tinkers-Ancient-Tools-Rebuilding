@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tinkers_atr:item/template/template_tinkers_atr_knightmetal",
+        "layer1": "tinkers_atr:item/template/minotaur_axe_icon_tinkers_atr_knightmetal"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:crafting_shapeless_materials",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tconstruct:material",
+      "item": "tinkers_atr:swasher_barrel",
+      "material": {
+        "type": "tconstruct:has_part",
+        "part": "tconstruct:bow_grip"
+      }
+    },
+    {
+      "item": "tconstruct:venom_bottle"
+    }
+  ],
+  "parts": 1,
+  "result": {
+    "count": 1,
+    "item": "tconstruct:bow_grip"
+  }
+}

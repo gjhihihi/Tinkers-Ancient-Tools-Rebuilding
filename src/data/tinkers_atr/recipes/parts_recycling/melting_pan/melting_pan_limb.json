@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:crafting_shapeless_materials",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tconstruct:material",
+      "item": "tinkers_atr:melting_pan_limb",
+      "material": {
+        "type": "tconstruct:has_part",
+        "part": "tconstruct:bow_limb"
+      }
+    },
+    {
+      "item": "tconstruct:venom_bottle"
+    }
+  ],
+  "parts": 1,
+  "result": {
+    "count": 1,
+    "item": "tconstruct:bow_limb"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:crafting_shapeless_materials",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tconstruct:material",
+      "item": "tinkers_atr:battlesign_plate",
+      "material": {
+        "type": "tconstruct:has_part",
+        "part": "tconstruct:large_plate"
+      }
+    },
+    {
+      "item": "tconstruct:venom_bottle"
+    }
+  ],
+  "parts": 1,
+  "result": {
+    "count": 1,
+    "item": "tconstruct:large_plate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "minecraft:archaeology/desert_well",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glass_pane",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tinkers_atr:swasher_building_template"
+        }
+      ],
+      "name": "main"
+    }
+  ]
+}

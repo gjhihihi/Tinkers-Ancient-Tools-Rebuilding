@@ -1,0 +1,21 @@
+{
+  "name": "twilightforest:chests/stronghold_cache",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tinkers_atr:minotaur_axe_building_template",
+          "weight": 25
+        }
+      ],
+      "name": "pool2"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "parts": [
+    { "path": "tinkers_atr:item/template/template", "stat_type": "tinkers_atr:template" },
+    { "path": "tinkers_atr:item/template/battlesign_icon", "stat_type": "tinkers_atr:battlesign_icon" },
+    { "path": "tinkers_atr:item/template/war_pick_icon", "stat_type": "tinkers_atr:war_pick_icon" },
+    { "path": "tinkers_atr:item/template/melting_pan_icon", "stat_type": "tinkers_atr:melting_pan_icon" },
+    { "path": "tinkers_atr:item/template/swasher_icon", "stat_type": "tinkers_atr:swasher_icon" },
+    { "path": "tinkers_atr:item/template/minotaur_axe_icon", "stat_type": "tinkers_atr:minotaur_axe_icon" },
+
+    { "path": "tinkers_atr:item/part/battlesign/battlesign_plate", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_atr:item/part/battlesign/battlesign_handle", "stat_type": "tconstruct:plating_shield" },
+    { "path": "tinkers_atr:item/part/war_pick/war_pick_head", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_atr:item/part/war_pick/war_pick_limb", "stat_type": "tconstruct:limb" },
+    { "path": "tinkers_atr:item/part/ancient_bowstring", "stat_type": "tconstruct:bowstring" },
+    { "path": "tinkers_atr:item/part/melting_pan/melting_pan_plate", "stat_type": "tconstruct:plating_shield" },
+    { "path": "tinkers_atr:item/part/melting_pan/melting_pan_limb", "stat_type": "tconstruct:limb" },
+    { "path": "tinkers_atr:item/part/swasher/swasher_blade", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_atr:item/part/swasher/swasher_handle", "stat_type": "tconstruct:handle" },
+    { "path": "tinkers_atr:item/part/swasher/swasher_barrel", "stat_type": "tconstruct:grip" },
+    { "path": "tinkers_atr:item/part/minotaur_axe/minotaur_axe_head", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_atr:item/part/minotaur_axe/minotaur_axe_binding", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_atr:item/part/minotaur_axe/minotaur_axe_handle", "stat_type": "tconstruct:handle" }
+  ]
+}
