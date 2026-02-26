@@ -1,0 +1,26 @@
+{
+  "icon": "tinkers_atr:battlesign_building_template",
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.tinkers_atr.tinkers_atr",
+  "items": [
+    "tinkers_atr:battlesign_building_template",
+    "tinkers_atr:war_pick_building_template",
+    "tinkers_atr:melting_pan_building_template",
+    "tinkers_atr:swasher_building_template",
+    "tinkers_atr:minotaur_axe_building_template",
+
+    "tinkers_atr:battlesign_plate",
+    "tinkers_atr:battlesign_handle",
+    "tinkers_atr:war_pick_head",
+    "tinkers_atr:war_pick_limb",
+    "tinkers_atr:ancient_bowstring",
+    "tinkers_atr:melting_pan_plate",
+    "tinkers_atr:melting_pan_limb",
+    "tinkers_atr:swasher_blade",
+    "tinkers_atr:swasher_handle",
+    "tinkers_atr:swasher_barrel",
+    "tinkers_atr:minotaur_axe_head",
+    "tinkers_atr:minotaur_axe_binding",
+    "tinkers_atr:minotaur_axe_handle"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tconstruct:war_pick"
+    },
+    "C": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "item": "tinkers_atr:war_pick_building_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "tinkers_atr:war_pick_building_template"
+  },
+  "show_notification": true
+}

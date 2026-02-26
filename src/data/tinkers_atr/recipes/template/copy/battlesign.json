@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tconstruct:battlesign"
+    },
+    "C": {
+      "tag": "forge:ingots/gold"
+    },
+    "S": {
+      "item": "tinkers_atr:battlesign_building_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "tinkers_atr:battlesign_building_template"
+  },
+  "show_notification": true
+}

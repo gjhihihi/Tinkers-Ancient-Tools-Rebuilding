@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "pattern": {
+    "item": "tinkers_atr:battlesign_building_template"
+  },
+  "tools": {
+    "item": "tconstruct:battlesign"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:tool_building",
+  "extra_requirements": [
+    { "item": "tinkers_atr:melting_pan_building_template" }
+  ],
+  "result": "tconstruct:melting_pan",
+  "slot_layout": "tinkers_atr:melting_pan"
+}

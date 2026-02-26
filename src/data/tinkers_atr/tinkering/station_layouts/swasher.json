@@ -1,0 +1,46 @@
+{
+  "icon": {
+    "item": "tconstruct:swasher",
+    "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+  },
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tinkers_atr:swasher_blade"
+      },
+      "icon": "tinkers_atr:swasher_blade",
+      "translation_key": "item.tinkers_atr.swasher_blade",
+      "x": 10,
+      "y": 20
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:swasher_handle"
+      },
+      "icon": "tinkers_atr:swasher_handle",
+      "translation_key": "item.tinkers_atr.swasher_handle",
+      "x": 46,
+      "y": 56
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:swasher_barrel"
+      },
+      "icon": "tinkers_atr:swasher_barrel",
+      "translation_key": "item.tinkers_atr.swasher_barrel",
+      "x": 28,
+      "y": 38
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:swasher_building_template"
+      },
+      "icon": "tinkers_atr:building_template",
+      "translation_key": "pattern.tinkers_atr.building_template",
+      "x": 83,
+      "y": 20
+    }
+  ],
+  "sortIndex": 24,
+  "translation_key": "item.tconstruct.swasher"
+}

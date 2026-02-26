@@ -1,0 +1,46 @@
+{
+  "icon": {
+    "item": "tconstruct:war_pick",
+    "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+  },
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tinkers_atr:war_pick_head"
+      },
+      "icon": "tinkers_atr:war_pick_head",
+      "translation_key": "item.tinkers_atr.war_pick_head",
+      "x": 53,
+      "y": 22
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:war_pick_limb"
+      },
+      "icon": "tinkers_atr:war_pick_limb",
+      "translation_key": "item.tinkers_atr.war_pick_limb",
+      "x": 15,
+      "y": 60
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:ancient_bowstring"
+      },
+      "icon": "tinkers_atr:ancient_bowstring",
+      "translation_key": "item.tinkers_atr.ancient_bowstring",
+      "x": 33,
+      "y": 42
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:war_pick_building_template"
+      },
+      "icon": "tinkers_atr:building_template",
+      "translation_key": "pattern.tinkers_atr.building_template",
+      "x": 83,
+      "y": 20
+    }
+  ],
+  "sortIndex": 22,
+  "translation_key": "item.tconstruct.war_pick"
+}

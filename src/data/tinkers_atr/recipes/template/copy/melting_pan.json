@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tconstruct:melting_pan"
+    },
+    "C": {
+      "item": "tconstruct:seared_brick"
+    },
+    "S": {
+      "item": "tinkers_atr:melting_pan_building_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "tinkers_atr:melting_pan_building_template"
+  },
+  "show_notification": true
+}

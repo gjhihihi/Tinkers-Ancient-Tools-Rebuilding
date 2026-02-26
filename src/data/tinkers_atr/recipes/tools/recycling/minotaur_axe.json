@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "pattern": {
+    "item": "tinkers_atr:minotaur_axe_building_template"
+  },
+  "tools": {
+    "item": "tconstruct:minotaur_axe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "pattern": {
+    "item": "tinkers_atr:melting_pan_building_template"
+  },
+  "tools": {
+    "item": "tconstruct:melting_pan"
+  }
+}

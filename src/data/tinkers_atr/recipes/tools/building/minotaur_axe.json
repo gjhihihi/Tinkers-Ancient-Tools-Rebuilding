@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:tool_building",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "extra_requirements": [
+    { "item": "tinkers_atr:minotaur_axe_building_template" }
+  ],
+  "result": "tconstruct:minotaur_axe",
+  "slot_layout": "tinkers_atr:minotaur_axe"
+}

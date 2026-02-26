@@ -1,0 +1,37 @@
+{
+  "icon": {
+    "item": "tconstruct:battlesign",
+    "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+  },
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tinkers_atr:battlesign_plate"
+      },
+      "icon": "tinkers_atr:battlesign_plate",
+      "translation_key": "item.tinkers_atr.battlesign_plate",
+      "x": 39,
+      "y": 35
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:battlesign_handle"
+      },
+      "icon": "tinkers_atr:battlesign_handle",
+      "translation_key": "item.tinkers_atr.battlesign_handle",
+      "x": 21,
+      "y": 53
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:battlesign_building_template"
+      },
+      "icon": "tinkers_atr:building_template",
+      "translation_key": "pattern.tinkers_atr.building_template",
+      "x": 83,
+      "y": 20
+    }
+  ],
+  "sortIndex": 21,
+  "translation_key": "item.tconstruct.battlesign"
+}

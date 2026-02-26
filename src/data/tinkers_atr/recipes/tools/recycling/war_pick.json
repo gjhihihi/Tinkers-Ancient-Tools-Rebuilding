@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "pattern": {
+    "item": "tinkers_atr:war_pick_building_template"
+  },
+  "tools": {
+    "item": "tconstruct:war_pick"
+  }
+}

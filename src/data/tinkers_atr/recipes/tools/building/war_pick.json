@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:tool_building",
+  "extra_requirements": [
+    { "item": "tinkers_atr:war_pick_building_template" }
+  ],
+  "result": "tconstruct:war_pick",
+  "slot_layout": "tinkers_atr:war_pick"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tconstruct:minotaur_axe"
+    },
+    "C": {
+      "tag": "forge:ingots/knightmetal"
+    },
+    "S": {
+      "item": "tinkers_atr:minotaur_axe_building_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "tinkers_atr:minotaur_axe_building_template"
+  },
+  "show_notification": true
+}

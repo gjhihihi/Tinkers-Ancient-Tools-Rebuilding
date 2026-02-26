@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "pattern": {
+    "item": "tinkers_atr:swasher_building_template"
+  },
+  "tools": {
+    "item": "tconstruct:swasher"
+  }
+}

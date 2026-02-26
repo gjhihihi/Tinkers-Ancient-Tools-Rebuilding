@@ -1,0 +1,52 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "icon": {
+    "item": "tconstruct:minotaur_axe",
+    "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+  },
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tinkers_atr:minotaur_axe_head"
+      },
+      "icon": "tinkers_atr:minotaur_axe_head",
+      "translation_key": "item.tinkers_atr.minotaur_axe_head",
+      "x": 31,
+      "y": 22
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:minotaur_axe_binding"
+      },
+      "icon": "tinkers_atr:minotaur_axe_binding",
+      "translation_key": "item.tinkers_atr.minotaur_axe_binding",
+      "x": 51,
+      "y": 34
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:minotaur_axe_handle"
+      },
+      "icon": "tinkers_atr:minotaur_axe_handle",
+      "translation_key": "item.tinkers_atr.minotaur_axe_handle",
+      "x": 22,
+      "y": 53
+    },
+    {
+      "filter": {
+        "item": "tinkers_atr:minotaur_axe_building_template"
+      },
+      "icon": "tinkers_atr:building_template",
+      "translation_key": "pattern.tinkers_atr.building_template",
+      "x": 83,
+      "y": 20
+    }
+  ],
+  "sortIndex": 25,
+  "translation_key": "item.tconstruct.minotaur_axe"
+}
