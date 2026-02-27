@@ -1,6 +1,6 @@
 modLoader="lowcodefml"
 loaderVersion="*"
-issueTrackerURL="https://www.mcmod.cn/class/24550.html"
+issueTrackerURL="https://github.com/gjhihihi/Tinkers-Ancient-Tools-Rebuilding/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_atr"
