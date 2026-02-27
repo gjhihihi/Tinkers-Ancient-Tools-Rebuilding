@@ -1,0 +1,3 @@
+# Tinkers: Ancient Tools Rebuilding
+<a href="https://www.curseforge.com/minecraft/mc-mods/tinkers-ancient-tools-rebuilding" rel="curseforge">![curseforge](https://raw.githubusercontent.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/available/curseforge_vector.svg)</a>
+<a href="https://www.mcmod.cn/class/24550.html" rel="mcmod"><img src="https://raw.githubusercontent.com/KessokuTeaTime/Badges-Extra/refs/heads/main/assets/cozy/available/mcmodcn_64h.png" alt="description" width="170" height="55"></a>
