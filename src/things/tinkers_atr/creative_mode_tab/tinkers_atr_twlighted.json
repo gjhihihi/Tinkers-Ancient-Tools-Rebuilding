@@ -1,9 +1,6 @@
 {
   "conditions": [
-    {"type":"not",
-      "condition":
       {"type": "mod_loaded", "modid": "twilightforest"}
-    }
   ],
   "icon": "tinkers_atr:battlesign_building_template",
   "after": ["tconstruct:world"],
@@ -13,6 +10,7 @@
     "tinkers_atr:war_pick_building_template",
     "tinkers_atr:melting_pan_building_template",
     "tinkers_atr:swasher_building_template",
+    "tinkers_atr:minotaur_axe_building_template",
 
     "tinkers_atr:battlesign_plate",
     "tinkers_atr:battlesign_handle",
@@ -23,6 +21,9 @@
     "tinkers_atr:melting_pan_limb",
     "tinkers_atr:swasher_blade",
     "tinkers_atr:swasher_handle",
-    "tinkers_atr:swasher_barrel"
+    "tinkers_atr:swasher_barrel",
+    "tinkers_atr:minotaur_axe_head",
+    "tinkers_atr:minotaur_axe_binding",
+    "tinkers_atr:minotaur_axe_handle"
   ]
 }

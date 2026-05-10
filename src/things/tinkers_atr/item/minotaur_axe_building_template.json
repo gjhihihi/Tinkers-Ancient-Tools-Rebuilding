@@ -1,3 +1,6 @@
 {
+  "conditions": [
+      {"type": "mod_loaded", "modid": "twilightforest"}
+  ],
   "type": "minecraft:plain"
 }

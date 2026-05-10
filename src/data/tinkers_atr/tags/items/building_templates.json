@@ -4,6 +4,6 @@
     "tinkers_atr:war_pick_building_template",
     "tinkers_atr:melting_pan_building_template",
     "tinkers_atr:swasher_building_template",
-    "tinkers_atr:minotaur_axe_building_template"
+    { "id": "tinkers_atr:minotaur_axe_building_template", "required": false }
   ]
 }

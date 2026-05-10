@@ -1,4 +1,7 @@
 {
+  "conditions": [
+      {"type": "mod_loaded", "modid": "twilightforest"}
+  ],
   "type": "tconstruct:tool_part",
   "stat_type": "tconstruct:head"
 }

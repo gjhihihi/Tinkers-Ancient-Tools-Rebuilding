@@ -10,8 +10,8 @@
     "tinkers_atr:swasher_blade",
     "tinkers_atr:swasher_handle",
     "tinkers_atr:swasher_barrel",
-    "tinkers_atr:minotaur_axe_head",
-    "tinkers_atr:minotaur_axe_binding",
-    "tinkers_atr:minotaur_axe_handle"
+    { "id": "tinkers_atr:minotaur_axe_head", "required": false },
+    { "id": "tinkers_atr:minotaur_axe_binding", "required": false },
+    { "id": "tinkers_atr:minotaur_axe_handle", "required": false }
   ]
 }
